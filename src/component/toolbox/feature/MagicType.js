@@ -19,7 +19,7 @@
 
 import * as echarts from '../../../echarts';
 import * as zrUtil from 'zrender/src/core/util';
-import lang from '../../../lang';
+import lang from '../../../langEN';
 import * as featureManager from '../featureManager';
 
 var magicTypeLang = lang.toolbox.magicType;
