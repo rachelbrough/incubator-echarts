@@ -51,10 +51,10 @@ export default {
         },
         magicType: {
             title: {
-                line: '切换为折线图',
-                bar: '切换为柱状图',
-                stack: '切换为堆叠',
-                tiled: '切换为平铺'
+                line: 'Switch to Line Chart',
+                bar: 'Bar',
+                stack: 'Stack',
+                tiled: 'Tile'
             }
         },
         restore: {
